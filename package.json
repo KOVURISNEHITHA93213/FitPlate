@@ -1,0 +1,33 @@
+{
+  "name": "ptt_web_page-copy-1",
+  "version": "1.0.0",
+  "description": "FitPlate is a web-based health assistant that helps users track their daily calorie intake, monitor workouts, and receive personalized meal and activity recommendations. By analyzing your personal information and daily activity, the system suggests what to eat next and highlights missing nutrients to help you meet your fitness and wellness goals.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzumakiShannu/FitPlate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzumakiShannu/FitPlate/issues"
+  },
+  "homepage": "https://github.com/UzumakiShannu/FitPlate#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
