@@ -9,7 +9,9 @@ FitPlate is a web-based health assistant that helps users track their daily calo
 - User dashboard with daily summary and progress insights
 - Modular component design for easy maintenance and scalability
 
-
+## Live Preview
+[![Live Preview](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge)](https://fitplate-a0cfe.web.app)
+You can check out the deployed version of FitPlate hosted on Firebase using the link above.
 
 ## Tech Stack
 
