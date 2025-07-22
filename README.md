@@ -1,4 +1,4 @@
-# FitPlate
+## FitPlate 🥗💪
 FitPlate is a web-based health assistant that helps users track their daily calorie intake, monitor workouts, and receive personalized meal and activity recommendations. By analyzing your personal information and daily activity, the system suggests what to eat next and highlights missing nutrients to help you meet your fitness and wellness goals.
  Features
 
@@ -53,6 +53,26 @@ Review the dashboard to monitor calories, see progress, and get guidance.
 Use food suggestions to cover any missed nutrients based on your inputs.
 
 
+## 📸 Screenshots
+#### 🏋️ Landing Page - Hero Section
+![Landing Page](https://github.com/user-attachments/assets/853a14ec-0b80-49f9-b6ab-8190896ccc17)
+
+#### 🙋 Profile Setup
+![Profile Setup](https://github.com/user-attachments/assets/cf2d4c24-80a5-4b5b-8d2f-adbf53e5b454)
+
+#### 🍛 Nutrition Log & Weight Tracker
+![Nutrition Log](https://github.com/user-attachments/assets/7ad34e1b-469a-4725-a41e-88b2534b9806)
+
+#### 🏃 Workout Tracker & Weekly Summary
+![Workout Summary](https://github.com/user-attachments/assets/cadfe934-a20d-41bb-b3ca-dd60f3d79541)
+
+
+#### 🧠 AI Nutrition Advisor & Food History
+![AI Advisor](https://github.com/user-attachments/assets/e2821c4c-d236-4b6a-9388-19efe405e3bf)
+
+
+
+
 
 ## Future Enhancements
 Integration with nutrition APIs for real-time food data
@@ -60,3 +80,31 @@ Authentication and user account management
 Weekly and monthly report generation
 Mobile responsive improvements
 Cloud-based data storage
+
+
+
+
+## 👨‍💻 Author
+
+**Suryavamsi Abhishek**  
+B.Tech in Electronics and Communication Engineering  
+IIITDM Kancheepuram, Chennai
+
+🔗 [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/)  
+💻 [GitHub](https://github.com/UzumakiShannu)
+
+
+## 🔒 License
+
+This project is intended for **educational and personal portfolio use only**.
+
+You may:
+- View and explore the code
+- Learn from its implementation
+
+You may **not**:
+- Reuse or distribute the code for commercial purposes
+- Claim the project or its design as your own
+
+For collaboration or special permissions, please contact me via [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/).
+
