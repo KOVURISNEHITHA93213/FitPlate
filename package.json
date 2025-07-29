@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UzumakiShannu/FitPlate.git"
+    "url": "git+https://github.com/KOVURISNEHITHA93213/FitPlate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UzumakiShannu/FitPlate/issues"
+    "url": "https://github.com/KOVURISNEHITHA93213/FitPlate/issues"
   },
-  "homepage": "https://github.com/UzumakiShannu/FitPlate#readme",
+  "homepage": "https://github.com/KOVURISNEHITHA93213/FitPlate#readme",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
