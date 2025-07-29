@@ -86,12 +86,12 @@ Cloud-based data storage
 
 ## 👨‍💻 Author
 
-**Suryavamsi Abhishek**  
-B.Tech in Electronics and Communication Engineering  
-IIITDM Kancheepuram, Chennai
+**KOVURI SNEHITHA**  
+B.Tech in Information technology
+B V Raju Institute of Technology
 
-🔗 [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/)  
-💻 [GitHub](https://github.com/UzumakiShannu)
+🔗 [LinkedIn](https://www.linkedin.com/in/kovuri-snehitha-0403a130a/)  
+💻 [GitHub](https://github.com/KOVURISNEHITHA93213)
 
 
 ## 🔒 License
@@ -106,5 +106,5 @@ You may **not**:
 - Reuse or distribute the code for commercial purposes
 - Claim the project or its design as your own
 
-For collaboration or special permissions, please contact me via [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/).
+For collaboration or special permissions, please contact me via [LinkedIn](https://www.linkedin.com/in/kovuri-snehitha-0403a130a/).
 
