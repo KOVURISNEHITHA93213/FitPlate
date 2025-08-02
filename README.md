@@ -90,8 +90,8 @@ Cloud-based data storage
 B.Tech in Information technology
 B V Raju Institute of Technology
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kovuri-snehitha-0403a130a/)  
-💻 [GitHub](https://github.com/KOVURISNEHITHA93213)
+🔗 [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/)  
+💻 [GitHub]()
 
 
 ## 🔒 License
